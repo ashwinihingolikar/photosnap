@@ -42,7 +42,3 @@ Users should be able to:
 - Mobile-first workflow
 
 
-## Author
-
-- Github - [Add your name here](https://github.com)
-- Frontend Mentor - [@ccreusat](https://www.frontendmentor.io/profile/ccreusat)
